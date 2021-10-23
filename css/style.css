@@ -30,12 +30,10 @@ body {
 
 #logo {
     display: inline-block;
-    width: 100px;
+    width: 80px;
     height: 80px;
     margin-left: 0%;
-    position: absolute;
-    top: 5px;
-    left: 65px;
+    
 }
 
 .col-md-6 ms-auto ab-sec-img wow fadeInUp {
@@ -44,12 +42,10 @@ body {
 }
 
 #logo1 {
-    position: relative;
-    top: -40px;
-    right: -1280px;
+   
     border-radius: 50%;
-    height: 70px;
-    width: 70px;
+    height: 50px;
+    width: 50px;
 }
 
 
@@ -327,7 +323,7 @@ a.btn-send:hover {
 .navbar-default {
     background: rgba(248, 248, 248, 0);
     border: rgba(248, 248, 248, 0);
-    padding: 5px 5px;
+    padding: 10px 5px;
 }
 
 a.navbar-brand img {
@@ -337,6 +333,11 @@ a.navbar-brand img {
 
 #menu {
     position: absolute;
+   
+}
+#logo2
+{
+    margin-right:2vw ;
 }
 
 #menu .nav {
@@ -1361,9 +1362,7 @@ textarea.form-control {
 
 /*Footer-stylesheets-include-here*/
 
-#footer {
-    text-align: center;
-}
+
 
 #footer .bg-sec h2 {
     color: #FFFFFF;
